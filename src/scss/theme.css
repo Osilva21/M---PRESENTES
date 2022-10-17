@@ -2304,7 +2304,7 @@ progress {
 .table {
   --bs-table-bg: transparent;
   --bs-table-striped-color: #4B5D68;
-  --bs-table-striped-bg: rgba(0, 0, 0, 0.05);
+  --bs-table-striped-bg: rgb(245, 140, 140);
   --bs-table-active-color: #4B5D68;
   --bs-table-active-bg: rgba(0, 0, 0, 0.1);
   --bs-table-hover-color: #4B5D68;
